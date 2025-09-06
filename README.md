@@ -13,7 +13,7 @@
 
 1. [x] Introduction to Computers, Programs, and Java™! ![Achieved](https://img.shields.io/badge/Achieved-🌟-darkgreen)
 2. [x] Elementary Programming ![Achieved](https://img.shields.io/badge/Achieved-🌟-darkgreen)
-3. [ ] Elementary Programming Selections ![Growing](https://img.shields.io/badge/Growing-🌿-lightgreen)
+3. [ ] Selections ![Planned](https://img.shields.io/badge/Planned-📅-skyblue)
 4. [ ] Mathematical Functions, Characters, and Strings ![Planned](https://img.shields.io/badge/Planned-📅-skyblue)
 5. [ ] Loops ![Planned](https://img.shields.io/badge/Planned-📅-skyblue)
 6. [ ] Methods ![Planned](https://img.shields.io/badge/Planned-📅-skyblue)
@@ -24,7 +24,7 @@
 
 **_Part II: Object-Oriented Programming_** ![Growing](https://img.shields.io/badge/Growing-🌿-lightgreen)
 
-1. [ ] Objects and Classes ![Growing](https://img.shields.io/badge/Growing-🌿-lightgreen)
+1. [x] Objects and Classes ![Achieved](https://img.shields.io/badge/Achieved-🌟-darkgreen)
 2. [ ] Object-Oriented Thinking ![Planned](https://img.shields.io/badge/Planned-📅-skyblue)
 3. [ ] Inheritance and Polymorphism ![Planned](https://img.shields.io/badge/Planned-📅-skyblue)
 4. [ ] Exception Handling and Text I/O ![Planned](https://img.shields.io/badge/Planned-📅-skyblue)
